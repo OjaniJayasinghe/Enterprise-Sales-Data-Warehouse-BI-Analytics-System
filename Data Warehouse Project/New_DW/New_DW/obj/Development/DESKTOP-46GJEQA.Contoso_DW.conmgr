@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-46GJEQA.Contoso_DW"
+  DTS:DTSID="{A92D1DB1-B83F-432E-B971-BAD4976888EE}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-46GJEQA;Initial Catalog=Contoso_DW;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-New_DW-{A92D1DB1-B83F-432E-B971-BAD4976888EE}DESKTOP-46GJEQA.Contoso_DW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

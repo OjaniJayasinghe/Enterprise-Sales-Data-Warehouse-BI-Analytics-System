@@ -1,0 +1,550 @@
+GeoLocationKey	CountryCode	Country	StateCode	State	NumCustomers
+336	GB	United Kingdom	West Oxfordshire	West Oxfordshire	5
+337	GB	United Kingdom	Westminster	Westminster	2
+338	GB	United Kingdom	Wigan	Wigan	2
+339	GB	United Kingdom	Wigtownshire	Wigtownshire	5
+340	GB	United Kingdom	Wiltshire	Wiltshire	31
+341	GB	United Kingdom	Winchester	Winchester	5
+342	GB	United Kingdom	Wirral	Wirral	2
+343	GB	United Kingdom	Woking	Woking	1
+344	GB	United Kingdom	Wolverhampton	Wolverhampton	7
+345	GB	United Kingdom	Worcester	Worcester	7
+346	GB	United Kingdom	Wrexham	Wrexham	1
+347	GB	United Kingdom	Wychavon	Wychavon	1
+348	GB	United Kingdom	Wycombe	Wycombe	2
+349	GB	United Kingdom	Wyre	Wyre	1
+350	GB	United Kingdom	Wyre Forest	Wyre Forest	3
+351	GB	United Kingdom	York	York	11
+352	IT	Italy	AG	Agrigento	3
+353	IT	Italy	AL	Alessandria	8
+354	IT	Italy	AN	Ancona	6
+355	IT	Italy	AO	Aosta	2
+356	IT	Italy	AP	Ascoli Piceno	7
+357	IT	Italy	AQ	L'Aquila	4
+358	IT	Italy	AR	Arezzo	5
+359	IT	Italy	AT	Asti	5
+360	IT	Italy	AV	Avellino	8
+361	IT	Italy	BA	Bari	4
+362	IT	Italy	BG	Bergamo	15
+363	IT	Italy	BI	Biella	5
+364	IT	Italy	BL	Belluno	4
+365	IT	Italy	BN	Benevento	6
+366	IT	Italy	BO	Bologna	13
+367	IT	Italy	BR	Brindisi	2
+368	IT	Italy	BS	Brescia	21
+369	IT	Italy	BZ	Bolzano	19
+370	IT	Italy	CA	Cagliari	10
+371	GB	United Kingdom	ST0	State_0	17
+372	DE	Germany	ST1	State_1	26
+373	AU	Australia	ST2	State_2	38
+374	FR	France	ST3	State_3	26
+375	ES	Spain	ST4	State_4	12
+376	GB	United Kingdom	ST5	State_5	47
+377	FR	France	ST6	State_6	45
+378	IT	Italy	ST7	State_7	25
+379	US	United States	ST8	State_8	27
+380	GB	United Kingdom	ST9	State_9	4
+381	CA	Canada	ST10	State_10	37
+382	IN	India	ST11	State_11	44
+383	CA	Canada	ST12	State_12	28
+384	US	United States	ST13	State_13	36
+385	AU	Australia	ST14	State_14	23
+386	FR	France	ST15	State_15	14
+387	DE	Germany	ST16	State_16	47
+388	DE	Germany	ST17	State_17	10
+389	GB	United Kingdom	ST18	State_18	3
+390	GB	United Kingdom	ST19	State_19	27
+391	IT	Italy	ST20	State_20	6
+392	CA	Canada	ST21	State_21	36
+393	CA	Canada	ST22	State_22	50
+394	CA	Canada	ST23	State_23	27
+395	IN	India	ST24	State_24	31
+396	BR	Brazil	ST25	State_25	30
+397	IT	Italy	ST26	State_26	21
+398	ES	Spain	ST27	State_27	27
+399	CA	Canada	ST28	State_28	48
+400	BR	Brazil	ST29	State_29	49
+401	GB	United Kingdom	ST30	State_30	3
+402	BR	Brazil	ST31	State_31	12
+403	FR	France	ST32	State_32	37
+404	IN	India	ST33	State_33	22
+405	IN	India	ST34	State_34	16
+406	IN	India	ST35	State_35	40
+407	GB	United Kingdom	ST36	State_36	11
+408	ES	Spain	ST37	State_37	13
+409	BR	Brazil	ST38	State_38	29
+410	DE	Germany	ST39	State_39	13
+411	GB	United Kingdom	ST40	State_40	27
+412	US	United States	ST41	State_41	13
+413	IN	India	ST42	State_42	37
+414	FR	France	ST43	State_43	32
+415	US	United States	ST44	State_44	21
+416	GB	United Kingdom	ST45	State_45	41
+417	BR	Brazil	ST46	State_46	48
+418	ES	Spain	ST47	State_47	46
+419	US	United States	ST48	State_48	48
+420	FR	France	ST49	State_49	40
+421	FR	France	ST50	State_50	48
+422	DE	Germany	ST51	State_51	30
+423	GB	United Kingdom	ST52	State_52	13
+424	BR	Brazil	ST53	State_53	39
+425	FR	France	ST54	State_54	4
+426	GB	United Kingdom	ST55	State_55	35
+427	ES	Spain	ST56	State_56	44
+428	ES	Spain	ST57	State_57	3
+429	ES	Spain	ST58	State_58	22
+430	IT	Italy	ST59	State_59	33
+431	GB	United Kingdom	ST60	State_60	45
+432	CA	Canada	ST61	State_61	21
+433	IN	India	ST62	State_62	16
+434	BR	Brazil	ST63	State_63	23
+435	ES	Spain	ST64	State_64	15
+436	BR	Brazil	ST65	State_65	21
+437	CA	Canada	ST66	State_66	28
+438	BR	Brazil	ST67	State_67	4
+439	US	United States	ST68	State_68	2
+440	IN	India	ST69	State_69	23
+441	AU	Australia	ST70	State_70	32
+442	DE	Germany	ST71	State_71	7
+443	AU	Australia	ST72	State_72	36
+444	IN	India	ST73	State_73	36
+445	AU	Australia	ST74	State_74	2
+446	US	United States	ST75	State_75	50
+447	FR	France	ST76	State_76	50
+448	FR	France	ST77	State_77	50
+449	IT	Italy	ST78	State_78	15
+450	FR	France	ST79	State_79	6
+451	AU	Australia	ST80	State_80	14
+452	BR	Brazil	ST81	State_81	22
+453	GB	United Kingdom	ST82	State_82	20
+454	IN	India	ST83	State_83	12
+455	AU	Australia	ST84	State_84	37
+456	ES	Spain	ST85	State_85	24
+457	DE	Germany	ST86	State_86	24
+458	CA	Canada	ST87	State_87	35
+459	AU	Australia	ST88	State_88	12
+460	GB	United Kingdom	ST89	State_89	7
+461	IT	Italy	ST90	State_90	2
+462	US	United States	ST91	State_91	9
+463	ES	Spain	ST92	State_92	32
+464	IN	India	ST93	State_93	26
+465	IT	Italy	ST94	State_94	36
+466	ES	Spain	ST95	State_95	33
+467	FR	France	ST96	State_96	34
+468	ES	Spain	ST97	State_97	27
+469	BR	Brazil	ST98	State_98	33
+470	AU	Australia	ST99	State_99	26
+471	ES	Spain	ST100	State_100	23
+472	IN	India	ST101	State_101	42
+473	CA	Canada	ST102	State_102	34
+474	US	United States	ST103	State_103	50
+475	DE	Germany	ST104	State_104	27
+476	GB	United Kingdom	ST105	State_105	19
+477	AU	Australia	ST106	State_106	44
+478	DE	Germany	ST107	State_107	33
+479	IT	Italy	ST108	State_108	31
+480	GB	United Kingdom	ST109	State_109	37
+481	IT	Italy	ST110	State_110	30
+482	IN	India	ST111	State_111	9
+483	BR	Brazil	ST112	State_112	19
+484	FR	France	ST113	State_113	16
+485	BR	Brazil	ST114	State_114	5
+486	CA	Canada	ST115	State_115	25
+487	IT	Italy	ST116	State_116	17
+488	BR	Brazil	ST117	State_117	19
+489	AU	Australia	ST118	State_118	11
+490	IT	Italy	ST119	State_119	23
+491	CA	Canada	ST120	State_120	36
+492	AU	Australia	ST121	State_121	47
+493	ES	Spain	ST122	State_122	23
+494	AU	Australia	ST123	State_123	4
+495	DE	Germany	ST124	State_124	31
+496	US	United States	ST125	State_125	5
+497	AU	Australia	ST126	State_126	48
+498	GB	United Kingdom	ST127	State_127	17
+499	IN	India	ST128	State_128	16
+500	FR	France	ST129	State_129	7
+501	GB	United Kingdom	ST130	State_130	2
+502	AU	Australia	ST131	State_131	7
+503	GB	United Kingdom	ST132	State_132	7
+504	CA	Canada	ST133	State_133	38
+505	CA	Canada	ST134	State_134	12
+506	IT	Italy	ST135	State_135	12
+507	CA	Canada	ST136	State_136	13
+508	AU	Australia	ST137	State_137	32
+509	FR	France	ST138	State_138	13
+510	IT	Italy	ST139	State_139	4
+511	CA	Canada	ST140	State_140	2
+512	DE	Germany	ST141	State_141	39
+513	US	United States	ST142	State_142	13
+514	DE	Germany	ST143	State_143	7
+515	FR	France	ST144	State_144	20
+516	GB	United Kingdom	ST145	State_145	48
+517	AU	Australia	ST146	State_146	10
+518	ES	Spain	ST147	State_147	26
+519	DE	Germany	ST148	State_148	38
+520	ES	Spain	ST149	State_149	42
+521	IT	Italy	ST150	State_150	40
+522	GB	United Kingdom	ST151	State_151	16
+523	GB	United Kingdom	ST152	State_152	37
+524	GB	United Kingdom	ST153	State_153	16
+525	FR	France	ST154	State_154	35
+526	IN	India	ST155	State_155	27
+527	IT	Italy	ST156	State_156	9
+528	DE	Germany	ST157	State_157	30
+529	GB	United Kingdom	ST158	State_158	35
+530	CA	Canada	ST159	State_159	21
+531	GB	United Kingdom	ST160	State_160	21
+532	IT	Italy	ST161	State_161	9
+533	US	United States	ST162	State_162	38
+534	BR	Brazil	ST163	State_163	32
+535	AU	Australia	ST164	State_164	43
+536	FR	France	ST165	State_165	17
+537	FR	France	ST166	State_166	46
+538	FR	France	ST167	State_167	31
+539	BR	Brazil	ST168	State_168	22
+540	CA	Canada	ST169	State_169	18
+541	US	United States	ST170	State_170	14
+542	US	United States	ST171	State_171	7
+543	AU	Australia	ST172	State_172	15
+544	US	United States	ST173	State_173	6
+545	IT	Italy	ST174	State_174	5
+546	CA	Canada	ST175	State_175	50
+547	ES	Spain	ST176	State_176	15
+548	FR	France	ST177	State_177	38
+549	US	United States	ST178	State_178	48
+550	ES	Spain	ST179	State_179	18
+551	FR	France	ST180	State_180	34
+552	GB	United Kingdom	ST181	State_181	3
+553	IT	Italy	ST182	State_182	21
+554	ES	Spain	ST183	State_183	47
+555	IT	Italy	ST184	State_184	19
+556	GB	United Kingdom	ST185	State_185	19
+557	US	United States	ST186	State_186	40
+558	FR	France	ST187	State_187	44
+559	IT	Italy	ST188	State_188	49
+560	CA	Canada	ST189	State_189	21
+561	GB	United Kingdom	ST190	State_190	38
+562	IN	India	ST191	State_191	26
+563	ES	Spain	ST192	State_192	50
+564	DE	Germany	ST193	State_193	19
+565	US	United States	ST194	State_194	3
+566	GB	United Kingdom	ST195	State_195	9
+567	US	United States	ST196	State_196	15
+568	IT	Italy	ST197	State_197	24
+569	US	United States	ST198	State_198	22
+570	GB	United Kingdom	ST199	State_199	34
+571	FR	France	ST200	State_200	26
+572	BR	Brazil	ST201	State_201	47
+573	AU	Australia	ST202	State_202	5
+574	CA	Canada	ST203	State_203	26
+575	BR	Brazil	ST204	State_204	48
+576	IN	India	ST205	State_205	39
+577	AU	Australia	ST206	State_206	40
+578	BR	Brazil	ST207	State_207	12
+579	BR	Brazil	ST208	State_208	6
+580	BR	Brazil	ST209	State_209	46
+581	AU	Australia	ST210	State_210	7
+582	IT	Italy	ST211	State_211	8
+583	US	United States	ST212	State_212	42
+584	FR	France	ST213	State_213	48
+585	GB	United Kingdom	ST214	State_214	26
+586	FR	France	ST215	State_215	40
+587	BR	Brazil	ST216	State_216	44
+588	FR	France	ST217	State_217	47
+589	BR	Brazil	ST218	State_218	17
+590	DE	Germany	ST219	State_219	50
+591	IN	India	ST220	State_220	4
+592	IN	India	ST221	State_221	17
+593	ES	Spain	ST222	State_222	21
+594	US	United States	ST223	State_223	28
+595	AU	Australia	ST224	State_224	2
+596	BR	Brazil	ST225	State_225	41
+597	GB	United Kingdom	ST226	State_226	26
+598	BR	Brazil	ST227	State_227	8
+599	AU	Australia	ST228	State_228	33
+600	BR	Brazil	ST229	State_229	5
+601	BR	Brazil	ST230	State_230	13
+602	GB	United Kingdom	ST231	State_231	13
+603	GB	United Kingdom	ST232	State_232	14
+604	FR	France	ST233	State_233	10
+605	IN	India	ST234	State_234	27
+606	IT	Italy	ST235	State_235	1
+607	IT	Italy	ST236	State_236	16
+608	AU	Australia	ST237	State_237	20
+609	CA	Canada	ST238	State_238	18
+610	GB	United Kingdom	ST239	State_239	50
+611	BR	Brazil	ST240	State_240	48
+612	DE	Germany	ST241	State_241	13
+613	FR	France	ST242	State_242	36
+614	FR	France	ST243	State_243	34
+615	ES	Spain	ST244	State_244	41
+616	IT	Italy	ST245	State_245	46
+617	IN	India	ST246	State_246	32
+618	BR	Brazil	ST247	State_247	28
+619	IN	India	ST248	State_248	9
+620	GB	United Kingdom	ST249	State_249	29
+621	IN	India	ST250	State_250	26
+622	BR	Brazil	ST251	State_251	7
+623	GB	United Kingdom	ST252	State_252	27
+624	GB	United Kingdom	ST253	State_253	30
+625	CA	Canada	ST254	State_254	13
+626	US	United States	ST255	State_255	23
+627	CA	Canada	ST256	State_256	13
+628	FR	France	ST257	State_257	49
+629	AU	Australia	ST258	State_258	29
+630	AU	Australia	ST259	State_259	11
+631	CA	Canada	ST260	State_260	49
+632	CA	Canada	ST261	State_261	16
+633	GB	United Kingdom	ST262	State_262	47
+634	GB	United Kingdom	ST263	State_263	45
+635	IT	Italy	ST264	State_264	23
+636	ES	Spain	ST265	State_265	15
+637	BR	Brazil	ST266	State_266	8
+638	GB	United Kingdom	ST267	State_267	25
+639	IN	India	ST268	State_268	18
+640	BR	Brazil	ST269	State_269	33
+641	GB	United Kingdom	ST270	State_270	35
+642	IT	Italy	ST271	State_271	16
+643	FR	France	ST272	State_272	2
+644	AU	Australia	ST273	State_273	14
+645	AU	Australia	ST274	State_274	9
+646	US	United States	ST275	State_275	9
+647	ES	Spain	ST276	State_276	3
+648	AU	Australia	ST277	State_277	14
+649	FR	France	ST278	State_278	33
+650	IN	India	ST279	State_279	17
+651	CA	Canada	ST280	State_280	20
+652	US	United States	ST281	State_281	20
+653	FR	France	ST282	State_282	22
+654	FR	France	ST283	State_283	30
+655	IT	Italy	ST284	State_284	32
+656	US	United States	ST285	State_285	19
+657	US	United States	ST286	State_286	19
+658	GB	United Kingdom	ST287	State_287	38
+659	BR	Brazil	ST288	State_288	1
+660	ES	Spain	ST289	State_289	20
+661	GB	United Kingdom	ST290	State_290	36
+662	ES	Spain	ST291	State_291	14
+663	IN	India	ST292	State_292	23
+664	IN	India	ST293	State_293	23
+665	BR	Brazil	ST294	State_294	13
+666	CA	Canada	ST295	State_295	7
+667	DE	Germany	ST296	State_296	17
+668	AU	Australia	ST297	State_297	4
+669	IT	Italy	ST298	State_298	22
+670	AU	Australia	ST299	State_299	33
+671	FR	France	ST300	State_300	13
+672	US	United States	ST301	State_301	15
+673	IT	Italy	ST302	State_302	6
+674	AU	Australia	ST303	State_303	34
+675	AU	Australia	ST304	State_304	11
+676	CA	Canada	ST305	State_305	5
+677	CA	Canada	ST306	State_306	6
+678	CA	Canada	ST307	State_307	28
+679	IT	Italy	ST308	State_308	4
+680	IT	Italy	ST309	State_309	30
+681	BR	Brazil	ST310	State_310	15
+682	IT	Italy	ST311	State_311	37
+683	CA	Canada	ST312	State_312	42
+684	IN	India	ST313	State_313	29
+685	IN	India	ST314	State_314	20
+686	GB	United Kingdom	ST315	State_315	28
+687	BR	Brazil	ST316	State_316	24
+688	FR	France	ST317	State_317	22
+689	FR	France	ST318	State_318	33
+690	CA	Canada	ST319	State_319	23
+691	FR	France	ST320	State_320	19
+692	IN	India	ST321	State_321	1
+693	US	United States	ST322	State_322	9
+694	DE	Germany	ST323	State_323	5
+695	IN	India	ST324	State_324	11
+696	US	United States	ST325	State_325	3
+697	US	United States	ST326	State_326	44
+698	CA	Canada	ST327	State_327	16
+699	BR	Brazil	ST328	State_328	30
+700	BR	Brazil	ST329	State_329	37
+701	FR	France	ST330	State_330	1
+702	IN	India	ST331	State_331	2
+703	IT	Italy	ST332	State_332	42
+704	DE	Germany	ST333	State_333	37
+705	BR	Brazil	ST334	State_334	20
+706	BR	Brazil	ST335	State_335	25
+707	ES	Spain	ST336	State_336	36
+708	GB	United Kingdom	ST337	State_337	40
+709	CA	Canada	ST338	State_338	40
+710	IN	India	ST339	State_339	27
+711	AU	Australia	ST340	State_340	17
+712	AU	Australia	ST341	State_341	30
+713	DE	Germany	ST342	State_342	41
+714	BR	Brazil	ST343	State_343	37
+715	IT	Italy	ST344	State_344	42
+716	FR	France	ST345	State_345	23
+717	BR	Brazil	ST346	State_346	17
+718	FR	France	ST347	State_347	25
+719	DE	Germany	ST348	State_348	37
+720	IN	India	ST349	State_349	42
+721	DE	Germany	ST350	State_350	41
+722	BR	Brazil	ST351	State_351	16
+723	IN	India	ST352	State_352	17
+724	FR	France	ST353	State_353	15
+725	IT	Italy	ST354	State_354	32
+726	IN	India	ST355	State_355	47
+727	IN	India	ST356	State_356	9
+728	IT	Italy	ST357	State_357	38
+729	CA	Canada	ST358	State_358	26
+730	DE	Germany	ST359	State_359	43
+731	CA	Canada	ST360	State_360	42
+732	DE	Germany	ST361	State_361	40
+733	IT	Italy	ST362	State_362	33
+734	IT	Italy	ST363	State_363	8
+735	CA	Canada	ST364	State_364	6
+736	CA	Canada	ST365	State_365	14
+737	FR	France	ST366	State_366	50
+738	GB	United Kingdom	ST367	State_367	40
+739	FR	France	ST368	State_368	50
+740	FR	France	ST369	State_369	42
+741	US	United States	ST370	State_370	12
+742	US	United States	ST371	State_371	10
+743	US	United States	ST372	State_372	4
+744	IT	Italy	ST373	State_373	19
+745	IN	India	ST374	State_374	40
+746	GB	United Kingdom	ST375	State_375	48
+747	ES	Spain	ST376	State_376	6
+748	IN	India	ST377	State_377	50
+749	DE	Germany	ST378	State_378	14
+750	GB	United Kingdom	ST379	State_379	5
+751	IT	Italy	ST380	State_380	4
+752	DE	Germany	ST381	State_381	38
+753	IN	India	ST382	State_382	32
+754	ES	Spain	ST383	State_383	36
+755	US	United States	ST384	State_384	1
+756	GB	United Kingdom	ST385	State_385	19
+757	IT	Italy	ST386	State_386	25
+758	DE	Germany	ST387	State_387	21
+759	GB	United Kingdom	ST388	State_388	15
+760	IN	India	ST389	State_389	23
+761	IN	India	ST390	State_390	39
+762	CA	Canada	ST391	State_391	10
+763	US	United States	ST392	State_392	23
+764	IT	Italy	ST393	State_393	50
+765	US	United States	ST394	State_394	17
+766	GB	United Kingdom	ST395	State_395	23
+767	IT	Italy	ST396	State_396	29
+768	IN	India	ST397	State_397	31
+769	BR	Brazil	ST398	State_398	44
+770	ES	Spain	ST399	State_399	44
+771	AU	Australia	ST400	State_400	21
+772	FR	France	ST401	State_401	34
+773	AU	Australia	ST402	State_402	47
+774	US	United States	ST403	State_403	11
+775	AU	Australia	ST404	State_404	26
+776	US	United States	ST405	State_405	40
+777	DE	Germany	ST406	State_406	43
+778	GB	United Kingdom	ST407	State_407	9
+779	US	United States	ST408	State_408	14
+780	US	United States	ST409	State_409	39
+781	ES	Spain	ST410	State_410	39
+782	IN	India	ST411	State_411	11
+783	IT	Italy	ST412	State_412	17
+784	US	United States	ST413	State_413	9
+785	IT	Italy	ST414	State_414	15
+786	BR	Brazil	ST415	State_415	8
+787	CA	Canada	ST416	State_416	25
+788	ES	Spain	ST417	State_417	20
+789	ES	Spain	ST418	State_418	24
+790	US	United States	ST419	State_419	27
+791	IN	India	ST420	State_420	28
+792	FR	France	ST421	State_421	48
+793	ES	Spain	ST422	State_422	4
+794	AU	Australia	ST423	State_423	38
+795	IN	India	ST424	State_424	30
+796	BR	Brazil	ST425	State_425	15
+797	DE	Germany	ST426	State_426	27
+798	FR	France	ST427	State_427	2
+799	AU	Australia	ST428	State_428	25
+800	ES	Spain	ST429	State_429	35
+801	CA	Canada	ST430	State_430	29
+802	US	United States	ST431	State_431	36
+803	IT	Italy	ST432	State_432	17
+804	AU	Australia	ST433	State_433	3
+805	GB	United Kingdom	ST434	State_434	46
+806	GB	United Kingdom	ST435	State_435	5
+807	CA	Canada	ST436	State_436	7
+808	IN	India	ST437	State_437	45
+809	FR	France	ST438	State_438	12
+810	GB	United Kingdom	ST439	State_439	34
+811	US	United States	ST440	State_440	3
+812	BR	Brazil	ST441	State_441	37
+813	FR	France	ST442	State_442	8
+814	ES	Spain	ST443	State_443	16
+815	CA	Canada	ST444	State_444	18
+816	DE	Germany	ST445	State_445	29
+817	FR	France	ST446	State_446	16
+818	FR	France	ST447	State_447	42
+819	BR	Brazil	ST448	State_448	23
+820	ES	Spain	ST449	State_449	25
+821	US	United States	ST450	State_450	26
+822	GB	United Kingdom	ST451	State_451	10
+823	GB	United Kingdom	ST452	State_452	42
+824	DE	Germany	ST453	State_453	5
+825	IT	Italy	ST454	State_454	16
+826	ES	Spain	ST455	State_455	20
+827	AU	Australia	ST456	State_456	16
+828	AU	Australia	ST457	State_457	6
+829	AU	Australia	ST458	State_458	47
+830	BR	Brazil	ST459	State_459	7
+831	DE	Germany	ST460	State_460	18
+832	FR	France	ST461	State_461	47
+833	ES	Spain	ST462	State_462	9
+834	FR	France	ST463	State_463	28
+835	IT	Italy	ST464	State_464	46
+836	ES	Spain	ST465	State_465	3
+837	GB	United Kingdom	ST466	State_466	16
+838	CA	Canada	ST467	State_467	4
+839	AU	Australia	ST468	State_468	5
+840	BR	Brazil	ST469	State_469	21
+841	IN	India	ST470	State_470	16
+842	CA	Canada	ST471	State_471	10
+843	AU	Australia	ST472	State_472	1
+844	IN	India	ST473	State_473	48
+845	ES	Spain	ST474	State_474	38
+846	ES	Spain	ST475	State_475	30
+847	IT	Italy	ST476	State_476	45
+848	IN	India	ST477	State_477	29
+849	FR	France	ST478	State_478	29
+850	IN	India	ST479	State_479	45
+851	FR	France	ST480	State_480	31
+852	BR	Brazil	ST481	State_481	30
+853	GB	United Kingdom	ST482	State_482	26
+854	CA	Canada	ST483	State_483	16
+855	ES	Spain	ST484	State_484	41
+856	DE	Germany	ST485	State_485	34
+857	CA	Canada	ST486	State_486	5
+858	BR	Brazil	ST487	State_487	14
+859	IN	India	ST488	State_488	13
+860	FR	France	ST489	State_489	31
+861	GB	United Kingdom	ST490	State_490	18
+862	AU	Australia	ST491	State_491	12
+863	US	United States	ST492	State_492	25
+864	DE	Germany	ST493	State_493	30
+865	IT	Italy	ST494	State_494	30
+866	DE	Germany	ST495	State_495	40
+867	CA	Canada	ST496	State_496	21
+868	US	United States	ST497	State_497	5
+869	FR	France	ST498	State_498	1
+870	BR	Brazil	ST499	State_499	24
+871	IT	Italy	ST500	State_500	35
+872	AU	Australia	ST501	State_501	44
+873	US	United States	ST502	State_502	7
+874	FR	France	ST503	State_503	38
+875	DE	Germany	ST504	State_504	29
+876	IT	Italy	ST505	State_505	14
+877	GB	United Kingdom	ST506	State_506	29
+878	DE	Germany	ST507	State_507	38
+879	GB	United Kingdom	ST508	State_508	48
+880	ES	Spain	ST509	State_509	33
+881	CA	Canada	ST510	State_510	36
+882	AU	Australia	ST511	State_511	29
+883	US	United States	ST512	State_512	15
+884	CA	Canada	ST513	State_513	31
